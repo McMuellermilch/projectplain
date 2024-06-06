@@ -30,7 +30,7 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 
 Es werden keine personenbezogenen Daten erhoben oder verarbeitet.
 
-Alle Daten, die von Ihnen in der Anwendung eingegeben werden, werden direkt auf dem Endgerät lokal gespeichert.
+Alle Daten, die von Ihnen in der Anwendung eingegeben werden, werden direkt auf dem Endgerät lokal gespeichert. Die Daten werden weder an externe Server, noch an Dienste anderer Drittanbieter weitergegeben.
 
 ## Maßgebliche Rechtsgrundlagen
 
